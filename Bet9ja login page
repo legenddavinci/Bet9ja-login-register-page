@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Bet9ja</title>
+    <link rel="stylesheet" href="panther.css">
+    <h3 style="color:red; text-align:center; background-color:#36454f;height:60px; margin:-7px; padding:10px;font-size:30px; ">Bet<span style="color:green;">9ja</span></h3>
+    
+</head>
+<body>
+    <p style="color:#6affcb;">Login</p><br>
+    <span class="ban"><a href="#">Register</a></span>
+    
+    
+    <forms>
+        <input name="username" type="text" id="username" placeholder="username" style="margin:20px;padding:10px;border:20px;" required>
+        <input name="password" type="password" id="password" placeholder="password" style="margin:20px; padding:10px;" required><br>
+        
+        <p style="text-align:center; background-color:#034B04; color:; margin:10px 0px; padding:7px;">Login</p>
+        
+        
+        
+    </forms>  
+    
+    <p style="color:white;text-align:center;">Forgot your Password?</p>
+    
+    
+    
+    
+    
+     
+     
+      
+     
+     
+     
+     <a href="http://www.9nationng.com.ng">visit site</a>
+     
+     
+     
+     
+
+     
+     
+</body>
+</html>
