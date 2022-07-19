@@ -8,39 +8,21 @@
     
 </head>
 <body>
-    <p style="color:#6affcb;">Login</p><br>
-    <span class="ban"><a href="#">Register</a></span>
+    <p <a href="https://sports.bet9ja.com" style="color:#6affcb; text-decoration:none;">Login</a></p><br>
+    <span class="ban"><a href="https://sports.bet9ja.com">Register</a></span>
     
     
     <forms>
-        <input name="username" type="text" id="username" placeholder="username" style="margin:20px;padding:10px;border:20px;" required>
-        <input name="password" type="password" id="password" placeholder="password" style="margin:20px; padding:10px;" required><br>
+        <input name="username" type="text" id="Username" placeholder="username" style="margin:20px;padding:10px;border:20px;width:70%;border-radius:6px;text-align:center;border:none;" required>
+        <input name="password" type="password" id="password" placeholder="Password" style="margin:20px; padding:10px;width:70%;border-radius:6px;text-align:center;border:none;" required><br>
         
-        <p style="text-align:center; background-color:#034B04; color:; margin:10px 0px; padding:7px;">Login</p>
-        
-        
+        <input type="submit" value="Login" style="text-align:center; background-color:#034B04; color:; margin:10px 20px; padding:7px;width:70%;height:6vh;border-radius:6px;border:none;">
         
     </forms>  
     
     <p style="color:white;text-align:center;">Forgot your Password?</p>
     
-    
-    
-    
-    
-     
-     
-      
-     
-     
-     
-     <a href="http://www.9nationng.com.ng">visit site</a>
-     
-     
-     
-     
-
-     
+    <a href="http://www.9nationng.com.ng">visit site</a>
      
 </body>
 </html>
